@@ -51,8 +51,6 @@ Este script Python realiza as seguintes etapas:
 
 6. Aguarda por um segundo antes de iniciar a próxima iteração.
 
-Lembre-se de que este é um exemplo básico e pode ser expandido e personalizado de acordo com suas necessidades.
-
 ## Vídeo Demonstrativo
 
 https://drive.google.com/file/d/1pxe6gFcUmhWVALBl5WPmi3EkH5Z1M4XS/view?usp=share_link
@@ -135,11 +133,11 @@ O arquivo Python realizará as seguintes ações:
 - Tentará criar um contato no Mailchimp.
 - Atualizará a página de contato no HubSpot com o email e nome (que serão gerados automaticamente no HubSpot).
 
-Com todas as etapas concluídas, você terá uma integração funcional entre o Pipedream, o Mailchimp e o HubSpot para o cadastro automático de contatos. Certifique-se de ajustar e personalizar o código do Python conforme suas necessidades específicas.
+Com todas as etapas concluídas, você terá uma integração funcional entre o Pipedream, o Mailchimp e o HubSpot para o cadastro automático de contatos. 
 
 ## Contribuições
 
-Se você deseja contribuir para este projeto, sinta-se à vontade para criar pull requests e relatar problemas. Estamos abertos a melhorias e sugestões.
+Se você deseja contribuir para este projeto, sinta-se à vontade para criar pull requests e relatar problemas.
 
 ## Licença
 
