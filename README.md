@@ -55,7 +55,7 @@ Lembre-se de que este é um exemplo básico e pode ser expandido e personalizado
 
 ## Vídeo Demonstrativo
 
-[https://drive.google.com/file/d/1pxe6gFcUmhWVALBl5WPmi3EkH5Z1M4XS/view?usp=share_link]
+https://drive.google.com/file/d/1pxe6gFcUmhWVALBl5WPmi3EkH5Z1M4XS/view?usp=share_link
 
 ## Tutorial para Configuração da Integração
 
