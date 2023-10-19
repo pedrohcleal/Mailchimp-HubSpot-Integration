@@ -53,7 +53,7 @@ Este script Python realiza as seguintes etapas:
 
 ## Vídeo Demonstrativo
 
-https://drive.google.com/file/d/1pxe6gFcUmhWVALBl5WPmi3EkH5Z1M4XS/view?usp=share_link
+https://drive.google.com/file/d/1VXtal6gg0KZlHDU17cyahsauzDSrlYaV/view?usp=share_link
 
 ## Tutorial para Configuração da Integração
 
